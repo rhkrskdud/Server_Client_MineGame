@@ -1,4 +1,4 @@
-# Submarine Mine Game
+# Server_Client Mine Game
 
 > 자바 소켓 통신 기반 2인용 지뢰찾기 게임
 
